@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/einin5-utaawase",
  "yomi": "えいにんごねんとうざうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三十番）",
+  "era": "永仁5年（1297）",
+  "author": "判者 京極為兼",
+  "desc": "当座で、春日と秋日、春月と秋月のように春と秋を対にした題で詠み合わせた歌合。新宰相・中将らの歌に、前権中納言京極為兼がその場で判を付け、判として歌を添える。"
+ },
  "editions": [
   {
    "pid": "1879502",
